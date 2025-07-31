@@ -40,7 +40,7 @@ with st.sidebar.expander("ℹ What do these mean?"):
 dark_mode = st.sidebar.checkbox("🌗 Enable Dark Theme")
 
 # Main Heading
-st.title("📈 Enhanced Real-Time Stock Market Dashboard")
+st.title("📈Real-Time Stock Market Dashboard")
 st.markdown("View real-time stock prices with interactive *Opening/Closing price trends, **volume*, and more!")
 
 # Download Refresh Button (Optional)
